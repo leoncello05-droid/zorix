@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Zorix Game Bar
+Comment=Liquid Glass Gaming Overlay
+Exec=zorix-gamebar
+Icon=utilities-system-monitor
+Terminal=false
+Type=Application
+Categories=Game;Utility;
